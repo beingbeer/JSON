@@ -454,8 +454,8 @@
 	"author": "Musaib Mir",
 	"url": "https://github.com/beingbeer/retrowaves/raw/main/retrowaves_04.png",
 	"thumbnail": "https://github.com/beingbeer/retrowaves-thumbs/raw/main/retrowaves_04.jpg",
-        "collections": "2000 x 3000 Retro Waves",
-	"dimensions": "px",
+        "collections": "Retro Waves",
+	"dimensions": "2000 x 3000 px",
 	"copyright": "Personal Use Only, Credits Required",
 	"downloadable": true
      },
@@ -1451,7 +1451,7 @@
 	"downloadable": true
      },
 {
-	"name": "Paint-oolbox 8",
+	"name": "PaintToolbox 8",
 	"author": "Musaib Mir",
 	"url": "https://github.com/beingbeer/paint_toolbox/raw/main/Color_08.jpg",
 	"thumbnail": "https://github.com/beingbeer/paint_toolbox-thumbs/raw/main/Color_08.jpg",
