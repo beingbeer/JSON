@@ -102,9 +102,9 @@
 {
 	"name": "Brook Energy",
 	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/assemblage/raw/main/assemblage_05.jpg",
-	"thumbnail": "https://github.com/beingbeer/assemblage-thumbs/raw/main/assemblage_05.jpg",
-        "collections": "Assemblage",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_14.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_14.jpg",
+        "collections": "Stratus",
 	"dimensions": "1440 x 3200 px",
 	"copyright": "Personal Use Only, Credits Required",
 	"downloadable": true
@@ -112,9 +112,9 @@
 {
 	"name": "Brook",
 	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/assemblage/raw/main/assemblage_06.jpg",
-	"thumbnail": "https://github.com/beingbeer/assemblage-thumbs/raw/main/assemblage_06.jpg",
-        "collections": "Assemblage",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_15.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_15.jpg",
+        "collections": "Stratus",
 	"dimensions": "1440 x 3200 px",
 	"copyright": "Personal Use Only, Credits Required",
 	"downloadable": true
@@ -122,9 +122,9 @@
 {
 	"name": "Bookeh BW",
 	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/assemblage/raw/main/assemblage_07.jpg",
-	"thumbnail": "https://github.com/beingbeer/assemblage-thumbs/raw/main/assemblage_07.jpg",
-        "collections": "Assemblage",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_16.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_16.jpg",
+        "collections": "Stratus",
 	"dimensions": "1440 x 3200 px",
 	"copyright": "Personal Use Only, Credits Required",
 	"downloadable": true
@@ -132,9 +132,9 @@
 {
 	"name": "Bubbles Energy",
 	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/assemblage/raw/main/assemblage_08.jpg",
-	"thumbnail": "https://github.com/beingbeer/assemblage-thumbs/raw/main/assemblage_08.jpg",
-        "collections": "Assemblage",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_17.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_17.jpg",
+        "collections": "Stratus",
 	"dimensions": "1440 x 3200 px",
 	"copyright": "Personal Use Only, Credits Required",
 	"downloadable": true
@@ -382,9 +382,9 @@
 {
 	"name": "Jewel River 01",
 	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/assemblage/raw/main/assemblage_01.jpg",
-	"thumbnail": "https://github.com/beingbeer/assemblage-thumbs/raw/main/assemblage_01.jpg",
-        "collections": "Assemblage",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_11.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_11.jpg",
+        "collections": "Stratus",
 	"dimensions": "1440 x 3200 px",
 	"copyright": "Personal Use Only, Credits Required",
 	"downloadable": true
@@ -392,9 +392,9 @@
 {
 	"name": "Jewel River 02",
 	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/assemblage/raw/main/assemblage_02.jpg",
-	"thumbnail": "https://github.com/beingbeer/assemblage-thumbs/raw/main/assemblage_02.jpg",
-        "collections": "Assemblage",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_12.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_12.jpg",
+        "collections": "Stratus",
 	"dimensions": "1440 x 3200 px",
 	"copyright": "Personal Use Only, Credits Required",
 	"downloadable": true
@@ -402,23 +402,13 @@
 {
 	"name": "Jewel River 03",
 	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/assemblage/raw/main/assemblage_03.jpg",
-	"thumbnail": "https://github.com/beingbeer/assemblage-thumbs/raw/main/assemblage_03.jpg",
-        "collections": "Assemblage",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_13.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_13.jpg",
+        "collections": "Stratus",
 	"dimensions": "1440 x 3200 px",
 	"copyright": "Personal Use Only, Credits Required",
 	"downloadable": true
-     },
-{
-	"name": "Jewel River 04",
-	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/assemblage/raw/main/assemblage_04.jpg",
-	"thumbnail": "https://github.com/beingbeer/assemblage-thumbs/raw/main/assemblage_04.jpg",
-        "collections": "Assemblage",
-	"dimensions": "1440 x 3200 px",
-	"copyright": "Personal Use Only, Credits Required",
-	"downloadable": true
-     },
+    },
 {
 	"name": "Teal Clouds 01",
 	"author": "Musaib Mir ",
