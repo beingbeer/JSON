@@ -1,5 +1,45 @@
 [
 {
+	"name": "Egon 07",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_07.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_07.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Egon 08",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_08.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_08.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Egon 09",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_09.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_09.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Egon 10",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_10.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_10.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Smooth Waves 28",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/smoothwaves/raw/main/smoothwaves_28.jpg",
