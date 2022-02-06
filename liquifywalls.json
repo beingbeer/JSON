@@ -1,5 +1,45 @@
 [
 {
+	"name": "Snow White",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_15.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_15.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Through the Train",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_16.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_16.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Green Gravity",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_18.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_18.jpg",
+        "collections": "Stratus",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Pink Gravity",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_19.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_19.jpg",
+        "collections": "Stratus",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Abstract Gradient 53",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/abstractgradients/raw/main/AbstractGradient_53.jpg",
