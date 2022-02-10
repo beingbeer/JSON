@@ -1,5 +1,45 @@
 [
 {
+	"name": "Abstract Floral",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/patterns/raw/main/patterns_17.jpg",
+	"thumbnail": "https://github.com/beingbeer/patterns-thumbs/raw/main/patterns_17.jpg",
+        "collections": "Patterns",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Butterfly",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/patterns/raw/main/patterns_16.jpg",
+	"thumbnail": "https://github.com/beingbeer/patterns-thumbs/raw/main/patterns_16.jpg",
+        "collections": "Patterns",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Half Moon",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_13.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_13.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Aqua Float",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/paint_toolbox/raw/main/Color_27.jpg",
+	"thumbnail": "https://github.com/beingbeer/paint_toolbox-thumbs/raw/main/Color_27.jpg",
+        "collections": "Paint Motion",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Pastel Gradient 03",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/abstractgradients/raw/main/AbstractGradient_65.jpg",
