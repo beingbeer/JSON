@@ -1,6 +1,46 @@
 [
 {
-	"name": "Abstract Floral",
+	"name": "Abstract Patterns 16",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/patterns/raw/main/patterns_19.jpg",
+	"thumbnail": "https://github.com/beingbeer/patterns-thumbs/raw/main/patterns_19.jpg",
+        "collections": "Patterns",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Abstract Floral 02",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/patterns/raw/main/patterns_18.jpg",
+	"thumbnail": "https://github.com/beingbeer/patterns-thumbs/raw/main/patterns_18.jpg",
+        "collections": "Patterns",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Abstract Gradient 70",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/abstractgradients/raw/main/AbstractGradient_70.jpg",
+	"thumbnail": "https://github.com/beingbeer/abstractgradients-thumbs/raw/main/AbstractGradient_70.jpg",
+        "collections": "Abstract Gradients",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Abstract Gradient 69",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/abstractgradients/raw/main/AbstractGradient_69.jpg",
+	"thumbnail": "https://github.com/beingbeer/abstractgradients-thumbs/raw/main/AbstractGradient_69.jpg",
+        "collections": "Abstract Gradients",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Abstract Floral 01",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/patterns/raw/main/patterns_17.jpg",
 	"thumbnail": "https://github.com/beingbeer/patterns-thumbs/raw/main/patterns_17.jpg",
