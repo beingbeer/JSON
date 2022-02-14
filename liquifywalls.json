@@ -1,5 +1,85 @@
 [
 {
+	"name": "Fluffy Curves 02",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/fluffyshapes/raw/main/fluffy_02.jpg",
+	"thumbnail": "https://github.com/beingbeer/fluffyshapes-thumbs/raw/main/fluffy_02.jpg",
+        "collections": "Mercury",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Fluffy Curves 01",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/fluffyshapes/raw/main/fluffy_01.jpg",
+	"thumbnail": "https://github.com/beingbeer/fluffyshapes-thumbs/raw/main/fluffy_01.jpg",
+        "collections": "Mercury",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Twisted Pink",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_50.jpg",
+	"thumbnail": "https://github.com/beingbeer/mercury-thumbs/raw/main/mercury_50.jpg",
+        "collections": "Mercury",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Twisted Blue",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_49.jpg",
+	"thumbnail": "https://github.com/beingbeer/mercury-thumbs/raw/main/mercury_49.jpg",
+        "collections": "Mercury",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     }
+{
+	"name": "Deer in Forest",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_17.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_17.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Egon 17",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_18.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_18.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Egon 16",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_17.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_17.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Egon 15",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_16.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_16.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Smooth Waves 36",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/smoothwaves/raw/main/SmoothWaves_36.jpg",
