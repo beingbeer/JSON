@@ -1,5 +1,45 @@
 [
 {
+	"name": "Liquid Waves 22",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/liquidwaves/raw/main/liquidwaves_22.jpg",
+	"thumbnail": "https://github.com/beingbeer/liquidwaves-thumbs/raw/main/liquidwaves_22.jpg",
+        "collections": "Liquid Waves",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Liquid Waves 21",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/liquidwaves/raw/main/liquidwaves_21.jpg",
+	"thumbnail": "https://github.com/beingbeer/liquidwaves-thumbs/raw/main/liquidwaves_21.jpg",
+        "collections": "Liquid Waves",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Egon 19",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_20.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_20.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Egon 18",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_19.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_19.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Fluffy Curves 02",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/fluffyshapes/raw/main/fluffy_02.jpg",
