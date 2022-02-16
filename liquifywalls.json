@@ -1,5 +1,45 @@
 [
 {
+	"name": "Twisted Gold",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_52.jpg",
+	"thumbnail": "https://github.com/beingbeer/mercury-thumbs/raw/main/mercury_52.jpg",
+        "collections": "Mercury",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Twisted Pink 02",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_51.jpg",
+	"thumbnail": "https://github.com/beingbeer/mercury-thumbs/raw/main/mercury_51.jpg",
+        "collections": "Mercury",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Abstract Floral 04",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/patterns/raw/main/patterns_22.jpg",
+	"thumbnail": "https://github.com/beingbeer/patterns-thumbs/raw/main/patterns_22.jpg",
+        "collections": "Patterns",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Egon 20",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_21.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_21.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Liquid Waves 22",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/liquidwaves/raw/main/liquidwaves_22.jpg",
@@ -60,7 +100,7 @@
 	"downloadable": true
      },
 {
-	"name": "Twisted Pink",
+	"name": "Twisted Pink 01",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_50.jpg",
 	"thumbnail": "https://github.com/beingbeer/mercury-thumbs/raw/main/mercury_50.jpg",
