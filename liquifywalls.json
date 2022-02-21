@@ -1,5 +1,85 @@
 [
 {
+	"name": "Fluffy Curves 04",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/fluffyshapes/raw/main/fluffy_04.jpg",
+	"thumbnail": "https://github.com/beingbeer/fluffyshapes-thumbs/raw/main/fluffy_04.jpg",
+        "collections": "Fluffy Curves",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Fluffy Curves 03",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/fluffyshapes/raw/main/fluffy_03.jpg",
+	"thumbnail": "https://github.com/beingbeer/fluffyshapes-thumbs/raw/main/fluffy_03.jpg",
+        "collections": "Fluffy Curves",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Twisted Multicolored 02",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_58.jpg",
+	"thumbnail": "https://github.com/beingbeer/mercury-thumbs/raw/main/mercury_58.jpg",
+     "collections": "Mercury",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Twisted White",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_57.jpg",
+	"thumbnail": "https://github.com/beingbeer/mercury-thumbs/raw/main/mercury_57.jpg",
+     "collections": "Mercury",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Twisted Pink 04",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_56.jpg",
+	"thumbnail": "https://github.com/beingbeer/mercury-thumbs/raw/main/mercury_56.jpg",
+     "collections": "Mercury",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Silky Dark",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_23.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_23.jpg",
+        "collections": "Stratus",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Silky Dark Geo",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_22.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_22.jpg",
+        "collections": "Stratus",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Cloud Panels",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_21.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_21.jpg",
+        "collections": "Stratus",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Twisted Purple",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_55.jpg",
