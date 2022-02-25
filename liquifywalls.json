@@ -1,5 +1,45 @@
 [
 {
+	"name": "Dusk Clouds",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_28.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_28.jpg",
+        "collections": "Stratus",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Deep Red Clouds",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_27.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_27.jpg",
+        "collections": "Stratus",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Abstract Gradient 89",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/abstractgradients/raw/main/AbstractGradient_89.jpg",
+	"thumbnail": "https://github.com/beingbeer/abstractgradients-thumbs/raw/main/AbstractGradient_89.jpg",
+        "collections": "Abstract Gradients",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Abstract Gradient 88",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/abstractgradients/raw/main/AbstractGradient_88.jpg",
+	"thumbnail": "https://github.com/beingbeer/abstractgradients-thumbs/raw/main/AbstractGradient_88.jpg",
+        "collections": "Abstract Gradients",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Red Clouds",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_26.jpg",
