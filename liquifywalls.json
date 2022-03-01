@@ -1,5 +1,65 @@
 [
 {
+	"name": "Mirror Clouds BW",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_34.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_34.jpg",
+        "collections": "Stratus",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Majesty Clouds",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_33.jpg",
+	"thumbnail": "https://github.com/beingbeer/stratus-thumbs/raw/main/stratus_33.jpg",
+        "collections": "Stratus",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Daylight Valley",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_19.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_19.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Night in Mountains",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_18.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_18.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "PaintMotion 32",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/paint_toolbox/raw/main/Color_32.jpg",
+	"thumbnail": "https://github.com/beingbeer/paint_toolbox-thumbs/raw/main/Color_32.jpg",
+     "collections": "Paint Motion",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Abstract Gradient 94",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/abstractgradients/raw/main/AbstractGradient_94.jpg",
+	"thumbnail": "https://github.com/beingbeer/abstractgradients-thumbs/raw/main/AbstractGradient_94.jpg",
+        "collections": "Abstract Gradients",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Kaleido Clouds BW",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/stratus/raw/main/stratus_32.jpg",
