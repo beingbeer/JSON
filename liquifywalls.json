@@ -1,5 +1,15 @@
 [
 {
+	"name": "Moody Purple",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_71.jpg",
+	"thumbnail": "https://github.com/beingbeer/mercury-thumbs/raw/main/mercury_71.jpg",
+        "collections": "Mercury",
+	"dimensions": "2160 x 3840 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Fluffy Curves 08",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/fluffyshapes/raw/main/fluffy_08.jpg",
