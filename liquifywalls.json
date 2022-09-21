@@ -1,35 +1,5 @@
 [
 {
-	"name": "Smooth Waves 59",
-	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/smoothwaves/raw/main/SmoothWaves_59.jpg",
-	"thumbnail": "https://github.com/beingbeer/smoothwaves-thumbs/raw/main/SmoothWaves_59.jpg",
-        "collections": "Smooth Waves",
-	"dimensions": "1440 x 3200 px",
-	"copyright": "Personal Use Only, Credits Required",
-	"downloadable": true
-     },
-{
-	"name": "Smooth Waves 58",
-	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/smoothwaves/raw/main/SmoothWaves_58.jpg",
-	"thumbnail": "https://github.com/beingbeer/smoothwaves-thumbs/raw/main/SmoothWaves_58.jpg",
-        "collections": "Smooth Waves",
-	"dimensions": "1440 x 3200 px",
-	"copyright": "Personal Use Only, Credits Required",
-	"downloadable": true
-     },
-{
-	"name": "Smooth Waves 57",
-	"author": "Musaib Mir ",
-	"url": "https://github.com/beingbeer/smoothwaves/raw/main/SmoothWaves_57.jpg",
-	"thumbnail": "https://github.com/beingbeer/smoothwaves-thumbs/raw/main/SmoothWaves_57.jpg",
-        "collections": "Smooth Waves",
-	"dimensions": "1440 x 3200 px",
-	"copyright": "Personal Use Only, Credits Required",
-	"downloadable": true
-     },
-{
 	"name": "Mixed Slices",
 	"author": "Musaib Mir ",
 	"url": "https://github.com/beingbeer/mercury/raw/main/mercury_120.jpg",
@@ -106,6 +76,36 @@
 	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_41.jpg",
         "collections": "Amoled",
 	"dimensions": "2160 x 3840 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Smooth Waves 59",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/smoothwaves/raw/main/SmoothWaves_59.jpg",
+	"thumbnail": "https://github.com/beingbeer/smoothwaves-thumbs/raw/main/SmoothWaves_59.jpg",
+        "collections": "Smooth Waves",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Smooth Waves 58",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/smoothwaves/raw/main/SmoothWaves_58.jpg",
+	"thumbnail": "https://github.com/beingbeer/smoothwaves-thumbs/raw/main/SmoothWaves_58.jpg",
+        "collections": "Smooth Waves",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Smooth Waves 57",
+	"author": "Musaib Mir ",
+	"url": "https://github.com/beingbeer/smoothwaves/raw/main/SmoothWaves_57.jpg",
+	"thumbnail": "https://github.com/beingbeer/smoothwaves-thumbs/raw/main/SmoothWaves_57.jpg",
+        "collections": "Smooth Waves",
+	"dimensions": "1440 x 3200 px",
 	"copyright": "Personal Use Only, Credits Required",
 	"downloadable": true
      },
