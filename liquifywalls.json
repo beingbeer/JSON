@@ -1,5 +1,85 @@
 [
 {
+	"name": "Amoled 73",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_70.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_70.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Amoled 72",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_69.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_69.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Amoled 71",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_68.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_68.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Landscape 60",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_60.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_60.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Landscape 59",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_59.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_59.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Landscape 58",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_58.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_58.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Landscape 57",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_57.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_57.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Landscape 56",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/landscapes/raw/main/mountains_56.jpg",
+	"thumbnail": "https://github.com/beingbeer/landscapes-thumbs/raw/main/mountains_56.jpg",
+        "collections": "Landscapes",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Amoled 70",
 	"author": "Musaib Mir",
 	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_70.jpg",
