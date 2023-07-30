@@ -180,6 +180,36 @@
 	"downloadable": true
      },
 {
+	"name": "Amoled 75",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_75.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_75.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Amoled 74",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_74.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_74.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+	"name": "Amoled 73",
+	"author": "Musaib Mir",
+	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_73.jpg",
+	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_73.jpg",
+        "collections": "Amoled",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
 	"name": "Amoled 72",
 	"author": "Musaib Mir",
 	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_72.jpg",
@@ -194,36 +224,6 @@
 	"author": "Musaib Mir",
 	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_71.jpg",
 	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_71.jpg",
-        "collections": "Amoled",
-	"dimensions": "1440 x 3200 px",
-	"copyright": "Personal Use Only, Credits Required",
-	"downloadable": true
-     },
-{
-	"name": "Amoled 70",
-	"author": "Musaib Mir",
-	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_70.jpg",
-	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_70.jpg",
-        "collections": "Amoled",
-	"dimensions": "1440 x 3200 px",
-	"copyright": "Personal Use Only, Credits Required",
-	"downloadable": true
-     },
-{
-	"name": "Amoled 69",
-	"author": "Musaib Mir",
-	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_69.jpg",
-	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_69.jpg",
-        "collections": "Amoled",
-	"dimensions": "1440 x 3200 px",
-	"copyright": "Personal Use Only, Credits Required",
-	"downloadable": true
-     },
-{
-	"name": "Amoled 68",
-	"author": "Musaib Mir",
-	"url": "https://github.com/beingbeer/amoled/raw/main/amoled_68.jpg",
-	"thumbnail": "https://github.com/beingbeer/amoled-thumbs/raw/main/amoled_68.jpg",
         "collections": "Amoled",
 	"dimensions": "1440 x 3200 px",
 	"copyright": "Personal Use Only, Credits Required",
